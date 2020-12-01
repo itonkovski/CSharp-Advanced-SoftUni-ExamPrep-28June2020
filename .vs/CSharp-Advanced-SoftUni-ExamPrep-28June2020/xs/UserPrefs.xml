@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1392E693-AB95-48C3-9D19-B19DDA813F8F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/Guild.cs">
+    <Files>
+      <File FileName="Parking/Program.cs" Line="9" Column="13" />
+      <File FileName="Parking/Car.cs" Line="26" Column="43" />
+      <File FileName="Parking/Parking.cs" Line="28" Column="1" />
+      <File FileName="../CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/Guild.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp-Advanced-SoftUni-ExamPrep-28June2020" expanded="True">
+            <Node name="Parking" expanded="True">
+              <Node name="Parking.cs" selected="True" />
+            </Node>
+            <Node name="Snake" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Snake FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Bombs FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Parking FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

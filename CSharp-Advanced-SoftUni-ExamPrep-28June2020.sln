@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bombs", "CSharp-Advanced-SoftUni-ExamPrep-28June2020\Bombs.csproj", "{C9737374-F80A-4374-ACF2-8E9B5A2B89F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{0688215D-0D7C-4050-8C69-1D3428BDEADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking", "Parking\Parking.csproj", "{1392E693-AB95-48C3-9D19-B19DDA813F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9737374-F80A-4374-ACF2-8E9B5A2B89F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9737374-F80A-4374-ACF2-8E9B5A2B89F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9737374-F80A-4374-ACF2-8E9B5A2B89F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9737374-F80A-4374-ACF2-8E9B5A2B89F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0688215D-0D7C-4050-8C69-1D3428BDEADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0688215D-0D7C-4050-8C69-1D3428BDEADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0688215D-0D7C-4050-8C69-1D3428BDEADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0688215D-0D7C-4050-8C69-1D3428BDEADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1392E693-AB95-48C3-9D19-B19DDA813F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1392E693-AB95-48C3-9D19-B19DDA813F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1392E693-AB95-48C3-9D19-B19DDA813F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1392E693-AB95-48C3-9D19-B19DDA813F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

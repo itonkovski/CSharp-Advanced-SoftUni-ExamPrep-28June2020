@@ -1,0 +1,10 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-28June2020/Parking/bin/Debug/netcoreapp2.1/Parking.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-28June2020/Parking/bin/Debug/netcoreapp2.1/Parking.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-28June2020/Parking/bin/Debug/netcoreapp2.1/Parking.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-28June2020/Parking/bin/Debug/netcoreapp2.1/Parking.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-28June2020/Parking/bin/Debug/netcoreapp2.1/Parking.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-28June2020/Parking/obj/Debug/netcoreapp2.1/Parking.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-28June2020/Parking/obj/Debug/netcoreapp2.1/Parking.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-28June2020/Parking/obj/Debug/netcoreapp2.1/Parking.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-28June2020/Parking/obj/Debug/netcoreapp2.1/Parking.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-28June2020/Parking/obj/Debug/netcoreapp2.1/Parking.pdb

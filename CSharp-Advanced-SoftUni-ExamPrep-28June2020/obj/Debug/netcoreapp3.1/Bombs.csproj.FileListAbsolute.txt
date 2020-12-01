@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep-28June2020/CSharp-Advanced-SoftUni-ExamPrep-28June2020/bin/Debug/netcoreapp3.1/Bombs
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep-28June2020/CSharp-Advanced-SoftUni-ExamPrep-28June2020/bin/Debug/netcoreapp3.1/Bombs.deps.json
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep-28June2020/CSharp-Advanced-SoftUni-ExamPrep-28June2020/bin/Debug/netcoreapp3.1/Bombs.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep-28June2020/CSharp-Advanced-SoftUni-ExamPrep-28June2020/bin/Debug/netcoreapp3.1/Bombs.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep-28June2020/CSharp-Advanced-SoftUni-ExamPrep-28June2020/bin/Debug/netcoreapp3.1/Bombs.dll
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep-28June2020/CSharp-Advanced-SoftUni-ExamPrep-28June2020/bin/Debug/netcoreapp3.1/Bombs.pdb
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep-28June2020/CSharp-Advanced-SoftUni-ExamPrep-28June2020/obj/Debug/netcoreapp3.1/Bombs.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep-28June2020/CSharp-Advanced-SoftUni-ExamPrep-28June2020/obj/Debug/netcoreapp3.1/Bombs.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep-28June2020/CSharp-Advanced-SoftUni-ExamPrep-28June2020/obj/Debug/netcoreapp3.1/Bombs.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep-28June2020/CSharp-Advanced-SoftUni-ExamPrep-28June2020/obj/Debug/netcoreapp3.1/Bombs.dll
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep-28June2020/CSharp-Advanced-SoftUni-ExamPrep-28June2020/obj/Debug/netcoreapp3.1/Bombs.pdb
